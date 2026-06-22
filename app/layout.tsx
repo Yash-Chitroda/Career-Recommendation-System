@@ -2,6 +2,8 @@ import type React from "react"
 import type { Metadata } from "next"
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
+// TypeScript may complain about side-effect CSS imports if no type declarations exist.
+// @ts-ignore: Ignore missing type declarations for CSS import
 import "./globals.css"
 
 export const metadata: Metadata = {

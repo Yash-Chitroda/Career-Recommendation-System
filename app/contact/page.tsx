@@ -137,7 +137,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 text-sm sm:text-base">Email</h3>
-                    <p className="text-gray-600 text-xs sm:text-sm">yashchitroda@gmail.com</p>
+                    <p className="text-gray-600 text-xs sm:text-sm">yashchitroda7805@gmail.com</p>
                     <p className="text-gray-500 text-xs">Reply within 24 hours</p>
                   </div>
                 </div>
@@ -356,7 +356,7 @@ export default function ContactPage() {
                   <h3 className="font-semibold mb-2 text-sm sm:text-base">Email Us</h3>
                   <p className="text-blue-100 text-xs sm:text-sm mb-3 sm:mb-4">Direct email for urgent matters</p>
                   <div className="flex flex-col gap-2">
-                    <a href="mailto:dhruvdarji201@gmail.com">
+                    <a href="mailto:yashchitroda7805@gmail.com">
                       <Button variant="secondary" size="sm" className="w-full text-xs sm:text-sm">
                         Open Email
                       </Button>
@@ -365,7 +365,7 @@ export default function ContactPage() {
                       variant="outline"
                       size="sm"
                       onClick={() => {
-                        navigator.clipboard.writeText("dhruvdarji201@gmail.com")
+                        navigator.clipboard.writeText("yashchitroda7805@gmail.com")
                         alert("Email copied!")
                       }}
                       className="bg-white/20 border-white/30 text-white hover:bg-white/30 w-full text-xs sm:text-sm"
@@ -379,7 +379,7 @@ export default function ContactPage() {
                   <Phone className="h-8 w-8 sm:h-12 sm:w-12 mx-auto mb-3 sm:mb-4 text-blue-200" />
                   <h3 className="font-semibold mb-2 text-sm sm:text-base">WhatsApp</h3>
                   <p className="text-blue-100 text-xs sm:text-sm mb-3 sm:mb-4">Chat with us instantly</p>
-                  <a href="https://wa.me/919054892470" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/917742052807" target="_blank" rel="noopener noreferrer">
                     <Button variant="secondary" size="sm" className="w-full text-xs sm:text-sm">
                       Chat Now
                     </Button>
